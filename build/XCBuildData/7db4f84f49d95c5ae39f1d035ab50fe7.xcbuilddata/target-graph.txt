@@ -1,6 +1,0 @@
-Target dependency graph (3 targets)
-Target 'CurrencyConverterUITests' in project 'CurrencyConverter'
-➜ Explicit dependency on target 'CurrencyConverter' in project 'CurrencyConverter'
-Target 'CurrencyConverterTests' in project 'CurrencyConverter'
-➜ Explicit dependency on target 'CurrencyConverter' in project 'CurrencyConverter'
-Target 'CurrencyConverter' in project 'CurrencyConverter' (no dependencies)
