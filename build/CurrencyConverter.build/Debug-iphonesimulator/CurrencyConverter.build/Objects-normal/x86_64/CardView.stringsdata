@@ -1,0 +1,16 @@
+{
+  "source": "/Users/yaelbilueran/Downloads/CurrencyConverter/CurrencyConverter/Views/CardView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%@: %@ to %@: %@"
+      },
+      {
+        "comment": "",
+        "key": "Date: %@"
+      }
+    ]
+  },
+  "version": 1
+}

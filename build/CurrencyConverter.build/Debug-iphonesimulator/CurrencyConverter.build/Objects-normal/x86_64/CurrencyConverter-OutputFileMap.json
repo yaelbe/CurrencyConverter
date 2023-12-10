@@ -1,0 +1,128 @@
+{
+  "" : {
+    "diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverter-master.dia",
+    "emit-module-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverter-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverter-master-emit-module.dia",
+    "swift-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverter-master.swiftdeps"
+  },
+  "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/yaelbilueran/Downloads/CurrencyConverter/CurrencyConverter/ContentView.swift" : {
+    "const-values" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/yaelbilueran/Downloads/CurrencyConverter/CurrencyConverter/CurrencyConversion/CurrencyConversionViewModel.swift" : {
+    "const-values" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConversionViewModel.swiftconstvalues",
+    "dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConversionViewModel.d",
+    "diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConversionViewModel.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConversionViewModel.o",
+    "llvm-bc" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConversionViewModel.bc",
+    "object" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConversionViewModel.o",
+    "swift-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConversionViewModel.swiftdeps",
+    "swiftmodule" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConversionViewModel~partial.swiftmodule"
+  },
+  "/Users/yaelbilueran/Downloads/CurrencyConverter/CurrencyConverter/CurrencyConversion/CurrencyConverterView.swift" : {
+    "const-values" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterView.swiftconstvalues",
+    "dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterView.d",
+    "diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterView.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterView.o",
+    "llvm-bc" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterView.bc",
+    "object" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterView.o",
+    "swift-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterView.swiftdeps",
+    "swiftmodule" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterView~partial.swiftmodule"
+  },
+  "/Users/yaelbilueran/Downloads/CurrencyConverter/CurrencyConverter/CurrencyConverterApp.swift" : {
+    "const-values" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterApp.swiftconstvalues",
+    "dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterApp.d",
+    "diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterApp.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterApp.o",
+    "llvm-bc" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterApp.bc",
+    "object" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterApp.o",
+    "swift-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterApp.swiftdeps",
+    "swiftmodule" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyConverterApp~partial.swiftmodule"
+  },
+  "/Users/yaelbilueran/Downloads/CurrencyConverter/CurrencyConverter/Helper/CurrencyMapper.swift" : {
+    "const-values" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyMapper.swiftconstvalues",
+    "dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyMapper.d",
+    "diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyMapper.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyMapper.o",
+    "llvm-bc" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyMapper.bc",
+    "object" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyMapper.o",
+    "swift-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyMapper.swiftdeps",
+    "swiftmodule" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyMapper~partial.swiftmodule"
+  },
+  "/Users/yaelbilueran/Downloads/CurrencyConverter/CurrencyConverter/History/ConversionHistoryEntry.swift" : {
+    "const-values" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ConversionHistoryEntry.swiftconstvalues",
+    "dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ConversionHistoryEntry.d",
+    "diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ConversionHistoryEntry.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ConversionHistoryEntry.o",
+    "llvm-bc" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ConversionHistoryEntry.bc",
+    "object" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ConversionHistoryEntry.o",
+    "swift-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ConversionHistoryEntry.swiftdeps",
+    "swiftmodule" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/ConversionHistoryEntry~partial.swiftmodule"
+  },
+  "/Users/yaelbilueran/Downloads/CurrencyConverter/CurrencyConverter/History/HistoryManager.swift" : {
+    "const-values" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/HistoryManager.swiftconstvalues",
+    "dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/HistoryManager.d",
+    "diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/HistoryManager.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/HistoryManager.o",
+    "llvm-bc" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/HistoryManager.bc",
+    "object" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/HistoryManager.o",
+    "swift-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/HistoryManager.swiftdeps",
+    "swiftmodule" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/HistoryManager~partial.swiftmodule"
+  },
+  "/Users/yaelbilueran/Downloads/CurrencyConverter/CurrencyConverter/Location/LocationManager.swift" : {
+    "const-values" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/LocationManager.swiftconstvalues",
+    "dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/LocationManager.d",
+    "diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/LocationManager.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/LocationManager.o",
+    "llvm-bc" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/LocationManager.bc",
+    "object" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/LocationManager.o",
+    "swift-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/LocationManager.swiftdeps",
+    "swiftmodule" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/LocationManager~partial.swiftmodule"
+  },
+  "/Users/yaelbilueran/Downloads/CurrencyConverter/CurrencyConverter/Services/CurrencyExchangeService.swift" : {
+    "const-values" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyExchangeService.swiftconstvalues",
+    "dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyExchangeService.d",
+    "diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyExchangeService.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyExchangeService.o",
+    "llvm-bc" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyExchangeService.bc",
+    "object" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyExchangeService.o",
+    "swift-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyExchangeService.swiftdeps",
+    "swiftmodule" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CurrencyExchangeService~partial.swiftmodule"
+  },
+  "/Users/yaelbilueran/Downloads/CurrencyConverter/CurrencyConverter/Views/BorderedViewWithTitle.swift" : {
+    "const-values" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/BorderedViewWithTitle.swiftconstvalues",
+    "dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/BorderedViewWithTitle.d",
+    "diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/BorderedViewWithTitle.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/BorderedViewWithTitle.o",
+    "llvm-bc" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/BorderedViewWithTitle.bc",
+    "object" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/BorderedViewWithTitle.o",
+    "swift-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/BorderedViewWithTitle.swiftdeps",
+    "swiftmodule" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/BorderedViewWithTitle~partial.swiftmodule"
+  },
+  "/Users/yaelbilueran/Downloads/CurrencyConverter/CurrencyConverter/Views/CardView.swift" : {
+    "const-values" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CardView.swiftconstvalues",
+    "dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CardView.d",
+    "diagnostics" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CardView.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CardView.o",
+    "llvm-bc" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CardView.bc",
+    "object" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CardView.o",
+    "swift-dependencies" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CardView.swiftdeps",
+    "swiftmodule" : "/Users/yaelbilueran/Downloads/CurrencyConverter/build/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/x86_64/CardView~partial.swiftmodule"
+  }
+}

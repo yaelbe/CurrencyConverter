@@ -1,0 +1,28 @@
+{
+  "source": "/Users/yaelbilueran/Downloads/CurrencyConverter/CurrencyConverter/CurrencyConversion/CurrencyConverterView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Currency Converter"
+      },
+      {
+        "comment": "",
+        "key": "Source Currency"
+      },
+      {
+        "comment": "",
+        "key": "Amount"
+      },
+      {
+        "comment": "",
+        "key": "Target Currency"
+      },
+      {
+        "comment": "",
+        "key": "No history found"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "B98C78B3-4C95-4F57-A4CE-2FD6EC48792B",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "diagnosticCollectionPolicy" : "Always"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:CurrencyConverter.xcodeproj",
+        "identifier" : "4F22E6842B2468EC001CCC7C",
+        "name" : "CurrencyConverterTests"
+      }
+    }
+  ],
+  "version" : 1
+}
